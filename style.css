@@ -329,19 +329,19 @@ section .title::after{
 }
 /* sessão de barras de skills */
 .skills .skills-content .right .angular::before{
-    width: 83%;
+    width: 85%;
 }
 .skills .skills-content .right .js::before{
     width: 88%;
 }
 .skills .skills-content .right .ts::before{
-    width: 79%;
+    width: 80%;
 }
 .skills .skills-content .right .html::before{
     width: 93%;
 }
 .skills .skills-content .right .css::before{
-    width: 87%;
+    width: 90%;
 }
 .skills .skills-content .right .java::before{
     width: 85%;
@@ -354,6 +354,9 @@ section .title::after{
 }
 .skills .skills-content .right .postgresql::before{
     width: 82%;
+}
+.skills .skills-content .right .gcp::before{
+    width: 75%;
 }
 
 /*  sessão equipe  */
